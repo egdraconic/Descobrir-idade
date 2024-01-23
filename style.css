@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,500&display=swap');
+
+body {
+    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+#itens {
+    display: block;
+    position: absolute;
+    left: 262px;
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 60px;
+}
+
+p {
+    text-align: center;
+    font-size: 26px;
+}
+
+label{ 
+    font-size: 26px;
+    padding: 12px;
+}
+input {
+    font-size: 16px;
+    padding: 12px;
+}
+
+div img {
+    padding-top: 68px;
+    position: relative;
+    left: 260px;
+}
+
+#imagens {
+    padding-top: 68px;
+    position: relative;
+    left: 340px;
+}
